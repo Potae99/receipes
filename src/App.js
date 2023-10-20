@@ -5,7 +5,7 @@ import Foot from './component/Foot'
 
 function App() {
   return (
-    <div className=' bg-orange-300 min-h-screen w-full '>
+    <div className=' bg-orange-200 min-h-screen w-full '>
       <TopHeader/>
       <Card/>
       <Foot/>

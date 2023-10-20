@@ -2,8 +2,8 @@ import React from 'react'
 
 function footer() {
   return (
-    <div>
-        <p>&copy; 2022 The Afterlogo Company Inc.</p>
+    <div className=' mt-10 '>
+        <p className=' mt-6'>&copy; 2023 The Afterlogo Company Inc.</p>
     </div>
   )
 }
